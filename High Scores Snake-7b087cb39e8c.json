@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "high-scores-snake",
+  "private_key_id": "7b087cb39e8cd3b0e7034e01572f4205879a37a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQChCwBA3YGByJOR\nSS23RZ4wovzNtUH8RiVrneqYMbzxQT1Yn5HjTZce6XzP/G8ApHZZcNQtkjB02TZT\nlzlUdLnKgvIRxWBiYM6Wy/xS/LFvLofWE3v2JarHAia0vxs9AlekTAFISZeGGOkz\nOYMHqUIETAKUyURwGTFgpm4eRYfNXhOOsyus6qPZ3OI+cwwDWAhwdb1RMfjDmUe/\nZ22vff1OheP9J9cw3sFXPpMiFmiCG5UMyGONrw1aO01kZTkRxlbzyc5FuiVv1KgG\nAkQaD/J2okz8b/vM9/KN2pkKoK00lDQ8IVcCGmb1KXMiL89jeNTESKR//Wkds2GK\nQnbXg9NvAgMBAAECggEAEtLy3iImK7Hy0dYwck5AbeX3T+JCisb2Q8yLKewSbk7W\naWAJkPy2T+Yx8SvMG9KdhNnj60m9wULMj1vLVzxnpSzGN96O5CD1tPm2Dks8QEc7\nmIHhiQWhHy74sELwX6LA9NLviXAUtpd91r9/uesGbPMnkBWwmrvPIkGB+Kbe91m6\nzGcp7PJNz3Q7zGdM59xd3upldhtHYBtf7dmctit5I7z6ymNAjz7H/EcadNN3GoFl\n0xCWT11BWvSePk+6FmcU+C1dA28Z/kdjUq4yoYx4muIKcv4uRUgHXKUyBQhrIBl9\nm0cmHJPsBq9qDsflzzC6MsLT5EielcoFgx4RZRQi8QKBgQDPGMMOiNk7AaZ809wi\nDQ80aE9eqWyP+ZfBuBUxNfUhlm3YnBgbm06cQ30HFgAvR2+ziKjw7dVz8oTN7b/T\n0+Ip4ENrmhEtPhBG07QENVl0mErOtZy5H9pvFb3TMKQUxgme+oJmQRt97rXVJfe5\nYkJFOpWep85lMTDLnbK9VBhjkQKBgQDHEjxuE3fccjf95iIbZhv9cbnIDmPt2O9+\nRKAhx+kova/+9/5GBOasazmk6abo8WbpVlOAMZ4w6od9E4/pNLIWJIpW0FlvyQ4h\nVQJ/Mif1Pj9BBR7pEQ8fSth16FeFYgFx0vb3tskNqicQjY5m8M23AVGe1EX6XovM\nipwsKo9G/wKBgFDEMHY/qrCXgS2Xlnd1LmPa9nFNk/hGeAfl2eX6TCKQP0DGB6Tk\nmfDZZS5ZRzMpIggbmP91UdTJVT/WpARh0wdP3htd16sUVFa7A67Me5m8NxiMvZV5\nNcAy83gktSkg3umweyCT7bvcV+/LweP7zSqgoW9htF3EpGoUk3vBC03xAoGAMXwL\n/4ThX7AY0Ql64vqv7IFvoBZLqt0pM2cVszABenoknKnC0F75hFSnIKJgNjmDzm8C\nFLTA0QILqgDJ3juWJUDyDoB+KvZ8h7adB0dNfX36tUvzkhYGf03Ynv6heuuQ1l2N\nvKf4NGhei5PUmSw0xtASHPxBZOpJsA+ooKX3tbsCgYANFr0CxW0kDPxRwIw6cJgf\nqb5VLc+KSOCnvFCC1FhV+gj3AVPDxj34+GofhPx28GlqNYQmS78DtPCXb5c6iTRm\neGb75mXhDoDOm0JpULEgjBm9FDl/iIEqpK3GRHNkRBnMHmmpfsBWshgQqeOgisKf\n1ay2SVUROz1y5tyVgi9nyA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "justin@high-scores-snake.iam.gserviceaccount.com",
+  "client_id": "112248852908256800889",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/justin%40high-scores-snake.iam.gserviceaccount.com"
+}
